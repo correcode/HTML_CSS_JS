@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.title-one {
+    background-color: #b4abab;
+    text-align: center;
+    display: block;
+    padding: 20px;
+
+}
+.menu-option {
+    background-color: white;
+    text-align: center;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+}
+.menu-option a {
+    border-color: white;
+    padding: 14px 16px;
+    text-decoration: none; 
+    text-align: center;    
+}
+.section1 {
+    background-color: #b4abab;
+    width: 35%;
+    text-align: center;
+    float: left;
+    padding: 20px;
+}
+.section2 {
+    background-color: #b4abab;
+    width: 65%;
+    text-align: center;
+    float: left;
+    padding: 20px;
+}
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.receptor {
+    background-color: lightsteelblue;
+    padding: 20px;
+    text-align: center;
+}
+.select1 {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid #333;
+    border-radius: 0%;
+    background-color: #333; 
+    display: inline-block;
+}
+.cota {
+    width: 100%;
+    display: block;
+    background-color: black;
+    box-sizing: border-box;
+}
+
+.title1 {
+    text-align: center;
+    background-color: #333;
+    padding: 25px;
+}
+.return {
+    background-color: #1f52de;
+    padding: 7px;
+}
+.welcome {
+    background-color: palegreen;
+    text-align: center;
+    padding: 25px;
+}
+.return {
+    padding: 7px;
+    background-color: black;    
+}
+.coluna1 {
+    padding: 25px;
+    background-image: url("../imagem logo/finan.png");
+    background-size: contain;
+}
+#unico {
+    text-align: left;
+}
+#lor2 {
+    text-align: left;
+    color: white;
+    background-color: #3333334b;
+}
+#lor1 {
+    text-align: left;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.322);
+}
+#tit1 {
+    background-color: rgba(0, 0, 0, 0.281);
+    color: white;
+    padding: 15%;
+}
